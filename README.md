@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Rahul-data
-- 👀 I’m interested in Data Analyst, Data scientist and IoT solutions
-- 🌱 I’m currently learning Data science
-- 💞️ I’m looking to collaborate on Crazy free lancer Data science project
+- 👋 Hi, I’m @Rahul
+- 👀 I’m working and interested in Data Analyst, Data scientist and IoT solutions
+- 🌱 I’m currently various Machine Learning Data science
+- 💞️ I’m looking to collaborate on Crazy Data science project and Team building for innovative project.
 - 📫 How to reach me-email me:- rahulpandey2345@gmail.com
 - Website: http://rahul.pandey.unaux.com/
 
